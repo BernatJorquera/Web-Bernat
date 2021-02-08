@@ -8,7 +8,6 @@ body {
 }
 header {
   margin: -100px -65px 80px -65px;
-  padding: -10px -10px 10px -10px;
   height: 60px;
   background: #061c99;
 }
@@ -98,11 +97,11 @@ figcaption {
   z-index: -1;
 }
 .first_border {
-  top:270px;
+  top:225px;
   height:100px;
 }
 .second_border {
-  top:518px;
+  top:473px;
   height:61px;
 }
 ul {
@@ -129,7 +128,3 @@ footer {
   margin-left: -65px;
   border: 1px solid #07033a;
 }
-/*ul {
-  border-left: 3px solid #07033a;
-  border-image: linear-gradient(#65b9f1, #1e0788) 30;
-}*/
