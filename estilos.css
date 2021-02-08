@@ -34,31 +34,37 @@ h2 {
   font-family: 'Raleway', sans-serif;
 }
 #foto_vng {
-  float: right;
+  position: absolute;
+  top: 145px;
+  right: 70px;
   width: 350px;
-  padding: 10px;
 }
 figcaption {
   text-align: justify;
 }
 #p_vng {
+  margin-top: 175px;
   margin-left: 10px;
   margin-right: 500px;
   padding: 30px;
   text-align: justify;
 }
 #foto_slytherin {
-  float: left;
+  position: absolute;
+  top: 520px;
+  left: 70px;
 }
 #foto_slytherin > img {
   width: 200px;
 }
 #p_slytherin {
+  margin-top: 260px;
   margin-left: 370px;
   margin-right: 50px;
   text-align: justify;
 }
 #p_final {
+  margin-top: 170px;
   margin-left: 40px;
   margin-right: 50px;
   text-align: justify;
