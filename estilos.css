@@ -7,7 +7,7 @@ body {
   color: #0b0c36;
 }
 header {
-  margin: -65px -65px 10px -65px;
+  margin: -100px -65px 80px -65px;
   padding: -10px -10px 10px -10px;
   height: 60px;
   background: #061c99;
@@ -28,6 +28,7 @@ h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 50px;
   color: #484ab6;
+  padding-top: 80px;
 }
 h2 {
   font-family: 'Raleway', sans-serif;
@@ -111,16 +112,15 @@ padding-top: 3px;
 }
 #p_contacto {
   text-align: center;
-  margin: 60px 300px;
+  margin: 130px 300px;
 }
 footer {
   position:absolute;
   background: #96c9eb;
   top:600px;
   padding: 17px;
-  padding-right: 336px;
+  padding-right: 183px;
   margin-left: -65px;
-  margin-right: -150px;
   border: 1px solid #07033a;
 }
 /*ul {
