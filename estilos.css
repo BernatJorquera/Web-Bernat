@@ -2,7 +2,7 @@ body {
   margin: 10px;
   padding:55px;
   background: #c2e2f8;
-  font-family:inherit;
+  font-family: 'Raleway', sans-serif;
   font-size: 19px;
   color: #0b0c36;
 }
@@ -25,12 +25,12 @@ header {
 }
 h1 {
   text-align: center;
-  font-family:'Times New Roman', Times, serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 50px;
   color: #484ab6;
 }
 h2 {
-  font-family:'Times New Roman', Times, serif;
+  font-family: 'Raleway', sans-serif;
 }
 #foto_vng {
   float: right;
